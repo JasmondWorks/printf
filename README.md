@@ -2,18 +2,18 @@
 
 ## Concepts
 
-- (Group Projects)[./https://alx-intranet.hbtn.io/concepts/111]
-- (Pair Programming - How To)[./https://alx-intranet.hbtn.io/concepts/121]
-- (Flowcharts)[./https://alx-intranet.hbtn.io/concepts/130]
-- (Technical Writing)[./https://alx-intranet.hbtn.io/concepts/225]
+- [Group Projects](./https://alx-intranet.hbtn.io/concepts/111)
+- [Pair Programming - How To](./https://alx-intranet.hbtn.io/concepts/121)
+- [Flowcharts](./https://alx-intranet.hbtn.io/concepts/130)
+- [Technical Writing](./https://alx-intranet.hbtn.io/concepts/225)
 
 ## Task - Write your own ```printf``` function
 
 ## Resources
 
-- (Secrets of printf)[./https://alx-intranet.hbtn.io/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q]
-- (Group Projects concept page)[././https://alx-intranet.hbtn.io/concepts/111]
-- (Flowcharts concept page)[././https://alx-intranet.hbtn.io/concepts/130]
+- [Secrets of printf](./https://alx-intranet.hbtn.io/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q)
+- [Group Projects concept page](././https://alx-intranet.hbtn.io/concepts/111)
+- [Flowcharts concept page](././https://alx-intranet.hbtn.io/concepts/130)
 
 ## Tasks
 
